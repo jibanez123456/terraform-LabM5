@@ -1,6 +1,6 @@
 # terraform-LabM5
 
-Tarea Terraforn:
+Tarea Terraform:
 
 - Crear una VM para instalar Jenkins mediante Ansible.
 
